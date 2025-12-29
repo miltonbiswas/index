@@ -84,34 +84,43 @@ export default function Footer() {
           </div>
 
           {/* MICRO SIGNATURE */}
-          <div className="pt-10 border-t border-slate-200 dark:border-slate-800">
-  <div className="
-    flex flex-col md:flex-row
-    items-center justify-between gap-4
-    text-xs text-slate-500 dark:text-slate-400
-    text-center md:text-left
-  ">
-    {/* LEFT — COPYRIGHT + BRANDS */}
+          <div className="pt-14 border-t border-slate-200 dark:border-slate-800">
+  {/* TOP LINE */}
+  <div
+    className="
+      flex flex-col md:flex-row
+      items-center justify-between gap-6
+      text-sm
+      text-slate-600 dark:text-slate-400
+      text-center md:text-left
+    "
+  >
     <span>
       © {new Date().getFullYear()}{" "}
-      <strong className="font-semibold text-slate-700 dark:text-slate-300">
+      <strong className="font-semibold text-slate-800 dark:text-slate-200">
         Milton Biswas (MBD®)
       </strong>{" "}
       &amp;{" "}
-      <strong className="font-semibold text-slate-700 dark:text-slate-300">
+      <strong className="font-semibold text-slate-800 dark:text-slate-200">
         Shri Ram Medical &amp; General Store
       </strong>
       . All rights reserved.
     </span>
 
-    {/* RIGHT — TAGLINE */}
-    <span>
+    <span className="font-medium">
       Healthcare professional. Full-stack engineer. Responsible systems.
     </span>
   </div>
 
   {/* DISCLAIMER */}
-  <div className="mt-4 text-[11px] leading-relaxed text-slate-400 dark:text-slate-500 text-center">
+  <div
+    className="
+      mt-6 max-w-5xl mx-auto
+      text-sm leading-relaxed
+      text-slate-500 dark:text-slate-400
+      text-center
+    "
+  >
     Content on this website is for informational purposes only and does not
     constitute medical advice. No part of this website may be reproduced,
     distributed, or transmitted in any form without prior written permission.
@@ -119,18 +128,30 @@ export default function Footer() {
   </div>
 
   {/* ATTRIBUTION */}
-  <div className="mt-4 text-[11px] text-slate-400 dark:text-slate-500 text-center">
+  <div
+    className="
+      mt-6
+      text-sm
+      text-slate-500 dark:text-slate-400
+      text-center
+    "
+  >
     Designed with ❤️ by{" "}
     <a
       href="https://instagram.com/miltonbiswasx"
       target="_blank"
       rel="noopener noreferrer"
-      className="font-medium text-blue-600 dark:text-blue-400 hover:underline"
+      className="
+        font-semibold
+        text-blue-600 dark:text-blue-400
+        hover:underline
+      "
     >
       Milton Biswas
     </a>
   </div>
 </div>
+
         </div>
       </div>
     </section>
