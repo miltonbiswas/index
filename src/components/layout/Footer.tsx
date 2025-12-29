@@ -84,14 +84,53 @@ export default function Footer() {
           </div>
 
           {/* MICRO SIGNATURE */}
-          <div className="pt-10 border-t border-slate-200 dark:border-slate-800 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500 dark:text-slate-400">
-            <span>
-              © {new Date().getFullYear()} Milton Biswas — MBD®
-            </span>
-            <span>
-              Built slow. Built right.
-            </span>
-          </div>
+          <div className="pt-10 border-t border-slate-200 dark:border-slate-800">
+  <div className="
+    flex flex-col md:flex-row
+    items-center justify-between gap-4
+    text-xs text-slate-500 dark:text-slate-400
+    text-center md:text-left
+  ">
+    {/* LEFT — COPYRIGHT + BRANDS */}
+    <span>
+      © {new Date().getFullYear()}{" "}
+      <strong className="font-semibold text-slate-700 dark:text-slate-300">
+        Milton Biswas (MBD®)
+      </strong>{" "}
+      &amp;{" "}
+      <strong className="font-semibold text-slate-700 dark:text-slate-300">
+        Shri Ram Medical &amp; General Store
+      </strong>
+      . All rights reserved.
+    </span>
+
+    {/* RIGHT — TAGLINE */}
+    <span>
+      Healthcare professional. Full-stack engineer. Responsible systems.
+    </span>
+  </div>
+
+  {/* DISCLAIMER */}
+  <div className="mt-4 text-[11px] leading-relaxed text-slate-400 dark:text-slate-500 text-center">
+    Content on this website is for informational purposes only and does not
+    constitute medical advice. No part of this website may be reproduced,
+    distributed, or transmitted in any form without prior written permission.
+    This is a healthcare professional–led technology practice.
+  </div>
+
+  {/* ATTRIBUTION */}
+  <div className="mt-4 text-[11px] text-slate-400 dark:text-slate-500 text-center">
+    Designed with ❤️ by{" "}
+    <a
+      href="https://instagram.com/miltonbiswasx"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="font-medium text-blue-600 dark:text-blue-400 hover:underline"
+    >
+      Milton Biswas
+    </a>
+  </div>
+</div>
         </div>
       </div>
     </section>
