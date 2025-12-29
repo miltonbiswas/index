@@ -1,36 +1,148 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Milton Biswas — Healthcare Professional & Full Stack Engineer
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3-38BDF8?style=for-the-badge&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)
+![Healthcare](https://img.shields.io/badge/Healthcare-Compliant-16A34A?style=for-the-badge)
+![Verified](https://img.shields.io/badge/Credentials-Verified-0EA5E9?style=for-the-badge)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 About This Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This repository contains the source code for my **personal professional website**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+It represents my **dual identity**:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🏥 **Registered Healthcare Professional (Pharmacist)**
+- 💻 **Full Stack Software Engineer & System Architect**
 
-## Learn More
+This is not a demo project.  
+This is a **real, compliance-aware, production-grade professional platform**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🏥 Professional Identity
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+I am **Milton Biswas**, a registered Pharmacist and owner of a **24×7 Medical & General Store**, while also working as a **Full Stack Developer**.
 
-## Deploy on Vercel
+My work combines:
+- Medical precision
+- Engineering discipline
+- Operational reliability
+- Ethical responsibility
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> In healthcare, errors cost lives.  
+> In software, I engineer systems with the same zero-tolerance mindset.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ✨ What This Website Includes
+
+- Professionally designed Hero section (Healthcare × Technology)
+- **Verified Healthcare Credentials**
+  - Bachelor of Pharmacy (B.Pharm)
+  - Drug License (DL)
+- Masked & secure credential display
+- Downloadable verification PDFs
+- Career timeline with real experience
+- Technical Arsenal (Frontend, Backend, Data, Cloud)
+- Certifications & continuous learning
+- Day / Night theme support
+- Mobile-first responsive design
+- Motion-enhanced but performance-safe UI
+- SEO-ready structure
+- Compliance & ethics statements
+
+---
+
+## 🔐 Credential Verification
+
+The following documents are available for verification via PDF download:
+
+- **Bachelor of Pharmacy (B.Pharm)** — `degree.pdf`
+- **Drug License (DL)** — `license.pdf`
+
+These are provided **only for transparency and trust**, not public misuse.
+
+---
+
+## ⚠️ Medical Practice Disclaimer
+
+This website **does not provide medical advice, diagnosis, or treatment**.
+
+All healthcare-related information is displayed **strictly for professional identity and credential verification purposes**, in accordance with applicable laws and ethical standards.
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+- Next.js (App Router)
+- React 18
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### UX & Design
+- Mobile-first responsive layout
+- Glassmorphism & subtle motion
+- Accessibility-aware color contrast
+- Performance-focused animations
+
+### Deployment
+- GitHub (Version Control)
+- Vercel (Production Hosting)
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Vercel** with GitHub integration.
+
+Any push to the main branch automatically triggers:
+- Build
+- Optimization
+- Production deployment
+
+---
+
+## 📊 Project Philosophy
+
+- Reliability > Visual Noise
+- Ethics > Shortcuts
+- Performance > Over-engineering
+- Clarity > Complexity
+
+This platform reflects **how I practice healthcare and how I write software**.
+
+---
+
+## 📬 Contact
+
+- **Email:** miltonbiswasdev@gmail.com  
+- **Pharmacy Website:** https://srmgs.vercel.app  
+
+Professional inquiries related to:
+- Healthcare systems
+- ERP / Dashboards
+- Compliance-aware platforms
+- High-performance web applications  
+are welcome.
+
+---
+
+## 🛡 License
+
+This project represents my **personal professional identity**.
+
+Unauthorized commercial reuse of content, layout, or branding is **not permitted**.
+
+---
+
+## 🧾 Final Note
+
+> A healthcare professional who engineers technology  
+> with responsibility, precision, and integrity.
